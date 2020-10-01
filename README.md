@@ -4,11 +4,11 @@
 
 My name is Satyam . I am a pentester and a coffeholic . This account is for my personal projects and hopefully some good linux configs i.e Arch and DWM.
 
-- 🔭 I’m currently working on Dwm and rofi cinfig file
-- 🌱 I’m currently learning kernel devlopment
+- 🔭 I’m currently working on Dwm and rofi config file
+- 🌱 I’m currently learning linux kernel development
 - 👯 I’m looking to collaborate on some bash and data science projects 
 - 🤔 I’m looking for help with linux ricing configd
-- 💬 Ask me about web app devlopment or security 
+- 💬 Ask me about web app development or security 
 - 📫 How to reach me: satyamneg@gmail.com
 
 
