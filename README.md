@@ -9,7 +9,7 @@ My name is Satyam . I am a pentester and a coffeholic . This account is for my p
 - 👯 I’m looking to collaborate on some bash and data science projects 
 - 🤔 I’m looking for help with linux ricing configd
 - 💬 Ask me about web app development or security 
-- 📫 How to reach me: satyamneg@gmail.com
+- :monocle_face: ###find me: satyamneg@gmail.com
 
 ![](https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif)
 
