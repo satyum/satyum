@@ -1,7 +1,6 @@
-###  About me 👋
+###  About me 
 
-<!--
-**satyum/satyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 My name is Satyam . I am a pentester and a coffeholic . This account is for my personal projects and hopefully some good linux configs i.e Arch and DWM.
 
@@ -13,4 +12,4 @@ My name is Satyam . I am a pentester and a coffeholic . This account is for my p
 - 📫 How to reach me: satyamneg@gmail.com
 
 
--->
+
