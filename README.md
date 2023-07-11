@@ -5,7 +5,7 @@ My name is Satyam . I am a devops engineer and a coffeholic . This account is fo
 
 -  I’m currently working on Dwm and rofi config file
 -  I’m currently learning linux kernel development
-- ###  :monocle_face: Find me: satyamneg@gmail.com
+- ###  :monocle_face: Find me: satyamnegg@gmail.com
 
 ![](https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif)
 
