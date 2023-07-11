@@ -1,4 +1,4 @@
-##  About me 
+[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/satyum/github-readme-stats)
 
 
 
