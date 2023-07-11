@@ -1,4 +1,4 @@
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/satyum/github-readme-stats)
+[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyum)](https://github.com/satyum/github-readme-stats)
 
 
 
