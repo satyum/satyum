@@ -1,5 +1,4 @@
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyum)](https://github.com/satyum/github-readme-stats)
-
+[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyum&hide=contribs)]
 
 
 My name is Satyam . I am a pentester and a coffeholic . This account is for my personal projects and hopefully some good linux configs i.e Arch and DWM.
